@@ -1,6 +1,12 @@
 # 10 Step Text Analysis in R Studio
 Text Analysis of Personal Capital Blog Headlines using R Studio
 
+Why Text Analysis?
+- How are our headlines/e-mails/posts being perceived by the audience?
+- Are we sending positive/negative/neutral/irrelevant messages?
+- What are we talking too much or too little about?
+- Did we miss any interesting subject matter?
+
 1. Install all required libraries: magrittr, dplyr, ggplot2, stringr, lattice and udpipe.
 
 2. Read the CSV file including headers and FALSE for stringsAsFactors.
