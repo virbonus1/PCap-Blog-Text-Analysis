@@ -1,5 +1,5 @@
-# PCap-Blog-Text-Analysis
-Text Analysis of Personal Capital Blog Headlines in R Studio
+# 10 Step Text Analysis in R Studio
+Text Analysis of Personal Capital Blog Headlines using R Studio
 
 1. Install all required libraries: magrittr, dplyr, ggplot2, stringr, lattice and udpipe.
 
